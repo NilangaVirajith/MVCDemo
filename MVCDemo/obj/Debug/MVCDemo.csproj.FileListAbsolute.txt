@@ -50,3 +50,5 @@ c:\users\nvirajith\documents\visual studio 2015\Projects\MVCDemo\MVCDemo\bin\MyS
 c:\users\nvirajith\documents\visual studio 2015\Projects\MVCDemo\MVCDemo\bin\MySql.Data.Entity.EF6.dll
 c:\users\nvirajith\documents\visual studio 2015\Projects\MVCDemo\MVCDemo\bin\EntityFramework.xml
 c:\users\nvirajith\documents\visual studio 2015\Projects\MVCDemo\MVCDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\nvirajith\documents\visual studio 2015\Projects\MVCDemo\MVCDemo\bin\BusinessLayer.dll
+C:\Users\nvirajith\documents\visual studio 2015\Projects\MVCDemo\MVCDemo\bin\BusinessLayer.pdb

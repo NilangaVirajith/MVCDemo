@@ -17,10 +17,5 @@ namespace MVCDemo.Controllers
             };
             return View();
         }
-
-        public string Details()
-        {
-            return "Details method invoked";
-        }
     }
 }
